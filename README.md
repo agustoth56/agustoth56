@@ -10,4 +10,4 @@ agustoth56/agustoth56 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=agustoth56&show_icons=true&theme=material-palenight">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=agustoth56&show_icons=true&theme=dark">
