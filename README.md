@@ -21,7 +21,7 @@
 
 
 ## Contact me
- If you are looking for a guy who can cover you position, do not hesitate to contact me thru:
+ If you are looking for a guy who can cover your free position, do not hesitate to contact me thru:
 
 <p align="center">
 <a href="https://www.instagram.com/agustoth56/"> <img width="50px" height="50px" src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png"/></a>     <a href="https://www.linkedin.com/in/agustin-toth/"><img width="50px" height="50px" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"/></a>     <a href="https://agustintoth.com/"><img width="50px" height="50" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png"/></a>
