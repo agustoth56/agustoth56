@@ -33,6 +33,6 @@
 <p align="center">
 <img style="text-align: center; width=75%;" src="https://github-readme-stats.vercel.app/api?username=agustoth56&show_icons=true&theme=material-palenight">
 <br>
-<img style="text-align: center; width=75%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustoth56&layout=compact&theme=material-palenight">
+<img style="text-align: center; width=75%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustoth56&theme=material-palenight">
  </p>
   
